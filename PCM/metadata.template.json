@@ -1,0 +1,35 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "ckl",
+    "description": "A collection of symbols/footprints for all kinds of uses",
+    "description_full": "This library focuses on digital designs such as devboards, single board computers and high speed communications.",
+    "identifier": "com.github.cheyao.ckl",
+    "type": "library",
+    "author": {
+        "name": "Cyao (cheyao)",
+        "contact": {
+            "discord": "https://discord.gg/mGtHtz94pw",
+            "web": "https://github.com/cheyao/ckl"
+        }
+    },
+    "maintainer": {
+        "name": "Cyao (cheyao)",
+        "contact": {
+            "discord": "https://discord.gg/mGtHtz94pw",
+            "web": "https://github.com/cheyao/ckl"
+        }
+    },
+    "license": "CERN-OHL",
+    "resources": {
+        "homepage": "https://github.com/cheyao/ckl"
+    },
+    "versions": [{
+        "version": "VERSION_HERE",
+        "status": "testing",
+        "kicad_version": "10.0",
+        "download_sha256": "SHA256_HERE",
+        "download_size": DOWNLOAD_SIZE_HERE,
+        "download_url": "DOWNLOAD_URL_HERE",
+        "install_size": INSTALL_SIZE_HERE
+    }]
+}

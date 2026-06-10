@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "WIP_ckl-mcu") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-mcu.pretty") (options "") (descr ""))
+	(lib (name "WIP_ckl-power") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-power.pretty") (options "") (descr ""))
+	(lib (name "WIP_ckl-connector") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-connector.pretty") (options "") (descr ""))
+	(lib (name "WIP_ckl-misc") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-misc.pretty") (options "") (descr ""))
+	(lib (name "WIP_ckl-switch") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-switch.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "WIP_ckl-power") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-power.kicad_sym") (options "") (descr ""))
+	(lib (name "WIP_ckl-mcu") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-mcu.kicad_sym") (options "") (descr ""))
+	(lib (name "WIP_ckl-misc") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-misc.kicad_sym") (options "") (descr ""))
+	(lib (name "WIP_ckl-storage") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-storage.kicad_sym") (options "") (descr ""))
+	(lib (name "WIP_ckl-sensor") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-sensor.kicad_sym") (options "") (descr ""))
+)
