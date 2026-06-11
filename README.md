@@ -1,5 +1,7 @@
 # ckl
 
+![](resources/preview.png)
+
 An assortiment useful footprints and symbols for digital designs.
 
 Currently contains 65 footprints and 68 symbols.
@@ -13,6 +15,8 @@ https://raw.githubusercontent.com/cheyao/cyao-kicad-repo/main/repository.json
 ```
 
 From this point on you will have "cyao KiCad repository" in your drop-down selection, and it will allow you to install (and update) ckl through PCM - easy and hassle-free.
+
+![](resources/repolist.png)
 
 ## Disclaimer
 
