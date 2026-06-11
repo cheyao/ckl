@@ -1,0 +1,303 @@
+(footprint "microSD_Molex_473521001"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Molex micro SD card connector")
+	(tags "micro SD connector")
+	(property "Reference" "REF**"
+		(at 0 -7.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e4fb384d-4e90-49e2-8b6f-376403aee98b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "microSD_Molex_473521001"
+		(at 0 8.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "86e798d6-bdd8-4aea-8cd7-4cc12da5054d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dee67cd7-80d8-4b86-afac-d4060903a6e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Molex micro SD card connector"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca1ec118-4988-4630-8aec-6ef4558872f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -6.95 -7)
+		(end 6.95 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "8799d130-c688-4ec7-a5a8-d7dd6080e505")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d4a9a2c4-3ac2-4e92-852f-00d3d4a5fb9e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 5.35 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "21c7f14a-90e1-40e7-bcbc-f91e740a1308")
+	)
+	(pad "2" smd rect
+		(at 4.25 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "5e8d8b97-31c7-44db-a2dd-0fd7575b2603")
+	)
+	(pad "3" smd rect
+		(at 3.15 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "69fda026-5edd-4aa4-8583-1391829ac85b")
+	)
+	(pad "4" smd rect
+		(at 2.05 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "b0a117ca-bbaf-44da-b437-a12adfb4aad0")
+	)
+	(pad "5" smd rect
+		(at 0.95 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "46b6ee9c-1344-4b9b-a3e7-d4a2089b612f")
+	)
+	(pad "6" smd rect
+		(at -0.15 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "cd761b3b-6c87-47ac-94a9-9511c3ed0d56")
+	)
+	(pad "7" smd rect
+		(at -1.25 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "cb25f2fc-5fb3-4b7b-b89c-f5082e7ef16a")
+	)
+	(pad "8" smd rect
+		(at -2.35 -6)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "10f5df46-3232-46c8-808d-2fa05ed995d0")
+	)
+	(pad "9" smd rect
+		(at -4.14 6.465)
+		(size 0.9 0.93)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "42e167b9-6f00-4bd7-bc70-6747f798369f")
+	)
+	(pad "10" smd rect
+		(at 0.125 6.54)
+		(size 1.05 0.78)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "3336db29-5892-438f-8c9c-3269264c7293")
+	)
+	(pad "11" smd rect
+		(at -6.45 5.265)
+		(size 0.7 3.33)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "9c11467d-16c3-4d1f-86e2-75056aff759b")
+	)
+	(pad "11" smd rect
+		(at -6.24 -5.985)
+		(size 1.12 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "fd4de4ee-3f3c-4fd3-b99a-fd2a6162e194")
+	)
+	(pad "11" smd rect
+		(at 6.435 -5.5)
+		(size 0.85 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "e21d18f6-6594-4094-bf10-d12fa370379f")
+	)
+	(pad "11" smd rect
+		(at 6.51 5.265)
+		(size 0.7 3.33)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "6d4d5143-83f8-418f-b871-8bb2c36f0938")
+	)
+	(zone
+		(layer "Margin")
+		(uuid "a3dde853-cc32-4734-b50e-7ff58366a074")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -6.05 1) (xy -6.85 1) (xy -6.85 -1.7) (xy -6.05 -1.7)
+			)
+		)
+	)
+	(zone
+		(layer "Margin")
+		(uuid "15b6c40d-b966-46bb-8143-5bb57c8dfbdc")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -4.65 6.4) (xy -5.05 6.4) (xy -5.05 4.3) (xy -4.65 4.3)
+			)
+		)
+	)
+	(zone
+		(layer "Margin")
+		(uuid "75ad3fe0-a143-4bf0-ac72-674f53d81a05")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -2.85 6.6) (xy -3.65 6.6) (xy -3.65 5.8) (xy -2.85 5.8)
+			)
+		)
+	)
+	(zone
+		(layer "Margin")
+		(uuid "f17efaf2-7e37-4978-9fb6-c71e517086e0")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 6.95 7) (xy 6.95 -4) (xy -3.057081 -4) (xy -3.057081 1) (xy -3.557081 1) (xy -3.557081 4) (xy 0.17 4)
+				(xy 0.17 5) (xy -1.55 5) (xy -1.55 7)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

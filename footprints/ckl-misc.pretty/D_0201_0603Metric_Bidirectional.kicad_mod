@@ -1,0 +1,159 @@
+(footprint "D_0201_0603Metric_Bidirectional"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
+	(tags "diode")
+	(property "Reference" "REF**"
+		(at 0 -1.05 0)
+		(layer "F.SilkS")
+		(uuid "80a0d523-9170-4ff0-b01a-32b4405a3a54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_0201_0603Metric_Bidirectional"
+		(at 0 1.05 0)
+		(layer "F.Fab")
+		(uuid "1c1123ec-3413-4645-9ca3-75658f9719bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75f5ed4a-54f2-44ad-b17e-6557dbab9016")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc88d41e-521b-49e6-b9bc-945c26737a62")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ceec286d-b99a-451b-9422-7dbf65251002")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -0.55 -0.3)
+		(end 0.55 0.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "b7096041-94d7-4a9c-91bd-a33bca561653")
+	)
+	(fp_line
+		(start -0.2 0.15)
+		(end -0.2 -0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d1765f2-6501-4529-851f-eb44cc1d23c6")
+	)
+	(fp_line
+		(start -0.1 0.15)
+		(end -0.1 -0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "59f380a1-0a34-4c79-ae61-08326db81bfa")
+	)
+	(fp_rect
+		(start -0.3 -0.15)
+		(end 0.3 0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1c366c00-8877-4131-9a70-2d0e75ed33d3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.68 0)
+		(layer "F.Fab")
+		(uuid "b4a02327-bcbd-4424-9558-2de7deafebc8")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.04)
+			)
+		)
+	)
+	(pad "" smd roundrect
+		(at -0.321 0)
+		(size 0.225 0.26)
+		(layers "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "e0edd081-0cec-4a99-a149-d2f00a11373e")
+	)
+	(pad "" smd roundrect
+		(at 0.321 0)
+		(size 0.225 0.26)
+		(layers "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "cee1a9e3-39d0-409b-aa17-df1aa3054ffe")
+	)
+	(pad "1" smd roundrect
+		(at -0.32 0)
+		(size 0.25 0.3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "90951f9a-015a-4a31-9c8b-419f594e86df")
+	)
+	(pad "2" smd roundrect
+		(at 0.32 0)
+		(size 0.25 0.3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "8622a828-2416-4bcb-9a3d-9f87ade4cb43")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0201_0603Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

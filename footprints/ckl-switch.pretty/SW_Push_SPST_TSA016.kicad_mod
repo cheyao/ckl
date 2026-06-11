@@ -3,11 +3,13 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
+	(descr "Tactile switch 4.2x3.35mm")
+	(tags "Switch Push")
 	(property "Reference" "REF**"
 		(at 0 -2.4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "a6c6bf40-e9fd-415d-9180-7e127ad7fd14")
+		(uuid "cab80092-af57-4767-a6b6-6b1d4601c747")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +21,7 @@
 		(at 0 2.55 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "0dcaf6bd-d645-419e-84d1-6f7b32ae1a6b")
+		(uuid "be634806-f99b-4ee1-98b5-da88d22f6128")
 		(effects
 			(font
 				(size 1 1)
@@ -27,12 +29,12 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588944469014294528"
+	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ad369903-3d9f-4b31-a9a6-9fb2de92fbff")
+		(uuid "c94e790e-fc81-408a-86a3-4387610cf960")
 		(effects
 			(font
 				(size 1 1)
@@ -40,12 +42,12 @@
 			)
 		)
 	)
-	(property "Description" "LCSC C2888430"
+	(property "Description" "Tactile switch 4.2x3.35mm"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b7d66f4f-a918-458f-82dc-95cd426fc5ec")
+		(uuid "545d4920-7571-43f2-a964-e85b0720baff")
 		(effects
 			(font
 				(size 1 1)
@@ -63,7 +65,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "4795c5d5-5fe4-4198-9f01-d79df97d29a5")
+		(uuid "f6e5d838-a1a2-4b79-b162-6de2dc1b8b7c")
 	)
 	(fp_line
 		(start -1.5 -1.5)
@@ -73,7 +75,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "8130d431-88a2-46fd-9703-62f59d45c09e")
+		(uuid "87026021-7283-4368-afa2-d214bb88eca1")
 	)
 	(fp_line
 		(start 1.5 1.5)
@@ -83,7 +85,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "f9e0ecb5-89f7-42ca-8465-e28126fa3c45")
+		(uuid "e4ade3de-d412-47fd-83e2-c9660ef9de1d")
 	)
 	(fp_line
 		(start 2.55 -0.55)
@@ -93,7 +95,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "a5609d38-2e4e-4faa-8e47-ac4e78476117")
+		(uuid "f79089a9-6ba3-4fa7-8fe7-8dfb54b6b9e7")
 	)
 	(fp_rect
 		(start -2.75 -1.7)
@@ -104,13 +106,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "8440cf8c-02ad-43a7-97bf-7ee359283003")
+		(uuid "05dbee55-2345-425b-a4ee-f001e115611d")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "dbe0d180-4297-413d-a833-3393c9de780c")
+		(uuid "31f131ea-9c2c-47ec-ae7d-730703222cad")
 		(effects
 			(font
 				(size 1 1)
@@ -124,7 +126,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "dcd4f608-cf4a-4a9a-9ba6-1917e12b961f")
+		(uuid "d2e9d1ce-9ad8-4593-92f6-67b037f64574")
 	)
 	(pad "1" smd roundrect
 		(at 2.075 -1.075)
@@ -132,7 +134,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "54bb21e4-d01e-40c9-ab78-8091880b39ea")
+		(uuid "cf9b7537-1454-4ac3-876c-f3257ed79b5a")
 	)
 	(pad "2" smd roundrect
 		(at -2.075 1.075)
@@ -140,7 +142,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "5faed4cc-a362-43a2-8174-a998126d855c")
+		(uuid "f909c56d-7698-4dcb-9e67-a80080728d85")
 	)
 	(pad "2" smd roundrect
 		(at 2.075 1.075)
@@ -148,7 +150,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "774794ed-0784-44aa-83ea-0bac52d499a9")
+		(uuid "c4cda0a6-69c2-4aa4-a512-9fdd7df331f7")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/../3dmodels/SW-SMD_4P-L4.2-W3.3-H2.5-P2.15-LS4.6.step"

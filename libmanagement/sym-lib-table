@@ -5,4 +5,5 @@
 	(lib (name "WIP_ckl-misc") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-misc.kicad_sym") (options "") (descr ""))
 	(lib (name "WIP_ckl-storage") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-storage.kicad_sym") (options "") (descr ""))
 	(lib (name "WIP_ckl-sensor") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-sensor.kicad_sym") (options "") (descr ""))
+	(lib (name "WIP_ckl-connector") (type "KiCad") (uri "${KIPRJMOD}/../symbols/ckl-connector.kicad_sym") (options "") (descr ""))
 )

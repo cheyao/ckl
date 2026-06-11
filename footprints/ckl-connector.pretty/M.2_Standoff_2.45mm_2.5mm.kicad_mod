@@ -1,0 +1,170 @@
+(footprint "M2_Standoff_2.45mm_2.5mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Standoff")
+	(tags "Standoff")
+	(property "Reference" "REF**"
+		(at 0 -3.05 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1deb7c4b-f6e5-4dd3-87a6-1902d4e7ddba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "M2_Standoff_2.45mm_2.5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a10b5a98-ecc4-42b2-b4df-c2ce66260117")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/C5137457.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf908fc5-15fe-44b7-bcd5-d2f2f7e7f175")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Standoff"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "708fad43-1fdc-416f-aaa3-b3dc713805b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(arc
+				(start -2.099999 -0.15)
+				(mid -1.488707 -1.488707)
+				(end -0.15 -2.1)
+			)
+			(arc
+				(start -0.15 -1.500001)
+				(mid -1.06595 -1.065951)
+				(end -1.5 -0.150001)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "41eba627-2511-4d9f-a3dd-67e09bf1c2de")
+	)
+	(fp_poly
+		(pts
+			(arc
+				(start -0.15 2.099999)
+				(mid -1.488707 1.488707)
+				(end -2.1 0.15)
+			)
+			(arc
+				(start -1.500001 0.15)
+				(mid -1.065951 1.06595)
+				(end -0.150001 1.5)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "be2c8397-6e4b-43c9-9b57-3d52dd2b6bbd")
+	)
+	(fp_poly
+		(pts
+			(arc
+				(start 0.149999 -2.099999)
+				(mid 1.488706 -1.488707)
+				(end 2.099999 -0.15)
+			)
+			(arc
+				(start 1.5 -0.15)
+				(mid 1.06595 -1.06595)
+				(end 0.15 -1.5)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "6a7d048d-a8f7-4a54-b859-c5c7413b1e36")
+	)
+	(fp_poly
+		(pts
+			(arc
+				(start 2.099998 0.15)
+				(mid 1.488706 1.488707)
+				(end 0.149999 2.1)
+			)
+			(arc
+				(start 0.149999 1.500001)
+				(mid 1.065949 1.065951)
+				(end 1.499999 0.150001)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "0c8e2c45-f966-471b-a8a9-e59d078a0aaf")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6c2e90e0-4c97-4638-9206-12ce289cd646")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 2.6 2.6)
+		(drill 2.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "4fafa3c9-c820-403c-a189-81977acc3b34")
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 4.6 4.6)
+		(layers "F.Cu" "F.Mask")
+		(uuid "d99c0a17-0a4c-4272-87f8-5547803fbdef")
+	)
+	(embedded_fonts no)
+)

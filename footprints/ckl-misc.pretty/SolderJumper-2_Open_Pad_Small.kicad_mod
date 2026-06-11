@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -1.8 0)
 		(layer "F.SilkS")
-		(uuid "5ac85150-c3f7-4852-a683-b83b921096fc")
+		(uuid "9711a5ab-5123-4e59-943f-75e32243ba9c")
 		(effects
 			(font
 				(size 1 1)
@@ -17,9 +17,9 @@
 		)
 	)
 	(property "Value" "SolderJumper-2_Open_Pad_Small"
-		(at 0 1.9 0)
+		(at 0 1.65 0)
 		(layer "F.Fab")
-		(uuid "6ffb297a-0713-4065-99f7-f80ef779a171")
+		(uuid "c9c44181-e3bb-441d-81fc-05fb78d36f91")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a7d4c6de-bb66-4093-a4ff-9ba83bfefe84")
+		(uuid "78d49075-06cb-4d2d-85f5-59769e307ba0")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "023130f6-2b98-4b04-9f6f-6f5fa5b2116b")
+		(uuid "5bef78c3-0a02-4e40-96d7-70f686459fab")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -66,7 +66,7 @@
 		)
 		(fill yes)
 		(layer "F.Mask")
-		(uuid "2e251153-7c54-4ca4-aad0-45f2dd2cdef4")
+		(uuid "6d7ee63e-32a3-4aca-914c-2f646fe8185c")
 	)
 	(fp_rect
 		(start -0.95 -0.35)
@@ -77,19 +77,19 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "1900d24e-a1f7-435f-908b-f572d98be2ce")
+		(uuid "c1eab0ce-89fc-42bf-8075-c491a83f3389")
 	)
 	(pad "1" smd rect
 		(at -0.55 0)
 		(size 0.8 0.7)
 		(layers "F.Cu" "F.Mask")
-		(uuid "1f4916d6-5970-429e-acb0-f12bd973256a")
+		(uuid "cab55fe4-8286-4f42-8bca-7c0ae0d16fa8")
 	)
 	(pad "2" smd rect
 		(at 0.55 0)
 		(size 0.8 0.7)
 		(layers "F.Cu" "F.Mask")
-		(uuid "35072cc2-eda2-484a-87d9-0b47a9a4329b")
+		(uuid "557de6d7-04cd-4a2c-a641-a59338623c43")
 	)
 	(embedded_fonts no)
 )
