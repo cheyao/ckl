@@ -1,0 +1,181 @@
+(footprint "SW_SPST_G-Switch_SHOU-HAN_MINI-MSK12CO2_Reverse_Mount"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Reverse Mounted ShouHan MSK12CO2 SPST switch")
+	(tags "reverse mount switch SPST")
+	(property "Reference" "REF**"
+		(at 0 -3.6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "66ac19b0-6ea0-4ded-b477-41eeb51f06c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Switch_Sink_MINI_MSK12CO2_Reverse_Mount"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4da465ae-6956-4cf8-ae40-957a5554e26b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8795cf1-3245-485f-aecd-9ed739deeb55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Reverse Mounted ShouHan MSK12CO2 SPST switch"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43540e7c-056c-4630-9a3d-e6c3ef7bf32e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.625 -1.5)
+		(end -2.625 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bbce9e09-e427-4ed5-bc15-c98697de2d4c")
+	)
+	(fp_line
+		(start 2.625 -1.5)
+		(end -2.625 -1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "00bd8d81-5780-4d52-a257-b7a0ae17462f")
+	)
+	(fp_line
+		(start 2.625 1.5)
+		(end 2.625 -1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "eb61e9b4-f033-417d-bdd6-82fe08fadea7")
+	)
+	(fp_rect
+		(start -3.5 -2.8)
+		(end 3.5 1.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2251b18a-5f86-460f-8376-240a3d030c6d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c71bdc8a-c454-48ef-953b-5a2ea97dff61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1 -1.85)
+		(size 0.7 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "a47c6e9e-aadf-4c68-be61-4b82633f2c08")
+	)
+	(pad "2" smd roundrect
+		(at 0 -1.85)
+		(size 0.7 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "31ddacde-1136-4358-95b8-6b0d2fdc0f39")
+	)
+	(pad "3" smd roundrect
+		(at 1 -1.85)
+		(size 0.7 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "66aeb64f-3408-443c-8f4a-d2a4dafbf59a")
+	)
+	(pad "MT" smd roundrect
+		(at -2.8 -1.1)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "d550e924-ec99-4428-93ba-eec4412b4b95")
+	)
+	(pad "MT" smd roundrect
+		(at -2.8 1.1)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "48a29b6d-c4b7-4cb8-9234-190366a57829")
+	)
+	(pad "MT" smd roundrect
+		(at 2.8 -1.1)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "ab91ff48-1688-4072-bddf-3f74a7bc57b3")
+	)
+	(pad "MT" smd roundrect
+		(at 2.8 1.1)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "93b68ed4-3e1f-4b87-88da-bb75ddc04826")
+	)
+	(embedded_fonts no)
+	(model "/home/cyao/Developer/ultraflat/hardware/library/leptiosis.pretty/SW-SMD_MSK12CO2.step"
+		(offset
+			(xyz 0 0 0.15)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -0)
+		)
+	)
+)
