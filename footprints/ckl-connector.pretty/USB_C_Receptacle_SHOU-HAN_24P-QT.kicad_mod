@@ -438,7 +438,7 @@
 		(uuid "133d01be-b0a8-4cce-8a81-349bd5b5ed87")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/../3dmodels/TYPE-C-SMD_C9900025773.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/TYPE-C-SMD_C9900025773.step"
 		(offset
 			(xyz 0 1.55 1.6)
 		)

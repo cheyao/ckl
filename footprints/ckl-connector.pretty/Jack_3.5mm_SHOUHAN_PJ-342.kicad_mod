@@ -596,7 +596,7 @@
 		(uuid "d5c7e67d-88c8-4b28-b04a-7e476b3913b3")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/../3dmodels/AUDIO-SMD_PJ-342-141.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/AUDIO-SMD_PJ-342-141.step"
 		(offset
 			(xyz -11.4 0 2.3)
 		)

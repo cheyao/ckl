@@ -153,7 +153,7 @@
 		(uuid "c4cda0a6-69c2-4aa4-a512-9fdd7df331f7")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/../3dmodels/SW-SMD_4P-L4.2-W3.3-H2.5-P2.15-LS4.6.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/SW-SMD_4P-L4.2-W3.3-H2.5-P2.15-LS4.6.step"
 		(offset
 			(xyz 0 0 1.75)
 		)

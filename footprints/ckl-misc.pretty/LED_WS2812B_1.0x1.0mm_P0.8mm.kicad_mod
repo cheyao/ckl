@@ -145,7 +145,7 @@
 		(uuid "a1f77fc4-3492-4524-aff3-dce0676844f5")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/../3dmodels/LED_WS2812B_1.0x1.0mm_P0.8mm.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/LED_WS2812B_1.0x1.0mm_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
