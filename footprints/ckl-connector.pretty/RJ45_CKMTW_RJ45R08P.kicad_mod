@@ -416,7 +416,7 @@
 		(uuid "26e89a46-4c45-442b-8b42-c01c22b25925")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/cm0.pretty/RJ45-TH_R-RJ45R08P-C000.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/RJ45-TH_R-RJ45R08P-C000.step"
 		(offset
 			(xyz 0 -5.8 0)
 		)

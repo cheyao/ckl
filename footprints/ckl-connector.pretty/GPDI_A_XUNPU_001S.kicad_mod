@@ -316,7 +316,7 @@
 		(uuid "185d4ee0-daf9-45a9-bac6-526d822968c3")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/cm0.pretty/GPDI-SMD_GPDI-001S.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/GPDI-SMD_GPDI-001S.step"
 		(offset
 			(xyz 0 -1.25 0)
 		)

@@ -446,7 +446,7 @@
 		(uuid "05ebe826-107e-4975-8801-740e73b96f3f")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/cm0.pretty/TF-SMD_TF-02.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/TF-SMD_TF-02.step"
 		(offset
 			(xyz -0.3 -1.75 2)
 		)

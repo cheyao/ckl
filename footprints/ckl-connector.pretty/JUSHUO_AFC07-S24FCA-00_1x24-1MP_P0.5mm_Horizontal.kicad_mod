@@ -461,9 +461,9 @@
 		(uuid "41ef4d16-7990-4db9-b528-09b53e956069")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Amphenol_F32Q-1A7x1-11024_1x24-1MP_P0.5mm_Horizontal.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/JUSHUO_AFC07-S24FCA-00_1x24-1MP_P0.5mm_Horizontal.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0.5 0)
 		)
 		(scale
 			(xyz 1 1 1)

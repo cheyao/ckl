@@ -564,7 +564,7 @@
 		(uuid "ac966d64-031d-495d-b3f3-3c2851158499")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Mainboard.pretty/20879-030E-01.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/20879-030E-01.step"
 		(offset
 			(xyz 0 2.2 0)
 		)

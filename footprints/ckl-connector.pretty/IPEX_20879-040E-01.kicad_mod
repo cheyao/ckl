@@ -690,7 +690,7 @@
 		(uuid "0dda3e78-629a-467c-954b-7998d8d3d34d")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Mainboard.pretty/20879-040E-01.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/20879-040E-01.step"
 		(offset
 			(xyz 0 2.24 0)
 		)

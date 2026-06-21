@@ -692,7 +692,7 @@
 		(uuid "48564f19-492e-46b6-aa7e-667f2628d3f9")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/cm0.pretty/USB-A-TH_AF-SS-JB17.6.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/USB-A-TH_AF-SS-JB17.6.step"
 		(offset
 			(xyz 0 -3.75 3)
 		)

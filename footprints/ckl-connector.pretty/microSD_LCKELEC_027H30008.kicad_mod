@@ -248,7 +248,7 @@
 		(uuid "4c03a701-94e2-488d-bf68-939923ed04a9")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Mainboard.pretty/TF-SMD_HYCW104-TF08-375B.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/TF-SMD_HYCW104-TF08-375B.step"
 		(offset
 			(xyz -0.3 -2.5 0)
 		)
