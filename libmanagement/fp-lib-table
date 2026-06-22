@@ -5,4 +5,6 @@
 	(lib (name "WIP_ckl-connector") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-connector.pretty") (options "") (descr ""))
 	(lib (name "WIP_ckl-misc") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-misc.pretty") (options "") (descr ""))
 	(lib (name "WIP_ckl-switch") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-switch.pretty") (options "") (descr ""))
+	(lib (name "WIP_ckl-castellated-2.00mm") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-castellated-2.00mm.pretty") (options "") (descr ""))
+	(lib (name "WIP_ckl-castellated-2.54mm") (type "KiCad") (uri "${KIPRJMOD}/../footprints/ckl-castellated-2.54mm.pretty") (options "") (descr ""))
 )

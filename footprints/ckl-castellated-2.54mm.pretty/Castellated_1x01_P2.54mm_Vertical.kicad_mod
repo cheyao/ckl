@@ -1,0 +1,195 @@
+(footprint "Castellated_1x01_P2.54mm_Vertical"
+        (version 20260206)
+        (generator "pcbnew")
+        (generator_version "10.0")
+        (layer "F.Cu")
+        (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
+        (tags "Through hole pin header THT 1x01 2.54mm single row")
+        (property "Reference" "REF**"
+            (at 0 -2.38 0)
+            (layer "F.SilkS")
+            (uuid "fc265124-671e-4401-abf0-e4976284bc5b")
+            (effects
+                (font
+                    (size 1 1)
+                    (thickness 0.15)
+                )
+            )
+        )
+        (property "Value" "Castellated_1x10_P2.54mm_Vertical"
+            (at 0 2.27 0)
+            (layer "F.Fab")
+            (uuid "af7c2a45-66fa-4133-b86b-a531c7cd3d22")
+            (effects
+                (font
+                    (size 1 1)
+                    (thickness 0.15)
+                )
+            )
+        )
+        (property "Datasheet" ""
+            (at 0 0 0)
+            (layer "F.Fab")
+            (hide yes)
+            (uuid "d7d8c7d5-cdc3-4c8c-97c3-dfd1c036db3a")
+            (effects
+                (font
+                    (size 1.27 1.27)
+                )
+            )
+        )
+        (property "Description" ""
+            (at 0 0 0)
+            (layer "F.Fab")
+            (hide yes)
+            (uuid "baa64380-58c2-4414-8ce8-2febeae7313e")
+            (effects
+                (font
+                    (size 1.27 1.27)
+                )
+            )
+        )
+        (property "KiLib_Generator" "connector/pin_header_socket"
+            (at 0 0 0)
+            (layer "F.SilkS")
+            (hide yes)
+            (uuid "99f27732-135c-47f2-9e1f-3f6110332a67")
+            (effects
+                (font
+                    (size 1 1)
+                    (thickness 0.15)
+                )
+            )
+        )
+        (attr through_hole)
+        (duplicate_pad_numbers_are_jumpers no)
+        (fp_rect
+            (start -1.77 -1.27)
+            (end 1.77 1.27)
+            (stroke
+                (width 0.05)
+                (type solid)
+            )
+            (fill no)
+            (layer "F.CrtYd")
+            (uuid "61cc2029-c7e9-411a-8c62-119080d4a42d")
+        )
+        (fp_line
+            (start -0.635 -1.27)
+            (end -1.27 -0.635)
+            (stroke
+                (width 0.1)
+                (type solid)
+            )
+            (layer "F.Fab")
+            (uuid "2e1d0157-14cb-4fd3-b82d-5553ac48a11c")
+        )
+        (fp_line
+            (start -1.27 1.27)
+            (end -1.27 -0.635)
+            (stroke
+                (width 0.1)
+                (type solid)
+            )
+            (layer "F.Fab")
+            (uuid "99b05e7f-2716-4376-927e-249902ce4d7e")
+        )
+        (fp_line
+            (start -0.635 -1.27)
+            (end 1.27 -1.27)
+            (stroke
+                (width 0.1)
+                (type solid)
+            )
+            (layer "F.Fab")
+            (uuid "a1c7307b-6904-4467-b1c6-188d2a09b11e")
+        )
+        (fp_line
+            (start 1.27 -1.27)
+            (end 1.27 1.27)
+            (stroke
+                (width 0.1)
+                (type solid)
+            )
+            (layer "F.Fab")
+            (uuid "fae051d2-cc8a-44a1-a5cd-a0c9e72da658")
+        )
+        (fp_line
+            (start 1.27 1.27)
+            (end -1.27 1.27)
+            (stroke
+                (width 0.1)
+                (type solid)
+            )
+            (layer "F.Fab")
+            (uuid "e37cc378-4eca-468b-acc1-14f25603d308")
+        )
+        (fp_text user "${REFERENCE}"
+            (at 0 0.00 90)
+            (layer "F.Fab")
+            (uuid "7dd32027-5441-49fc-b6c1-e01a39b47f6d")
+            (effects
+                (font
+                    (size 1 1)
+                    (thickness 0.15)
+                )
+            )
+        )
+    	(pad "1" thru_hole circle
+                    (at -0.635 0.0)
+                    (size 1.4 1.4)
+                    (drill 0.95)
+                    (layers "*.Cu" "*.Mask")
+                    (remove_unused_layers no)
+                    (zone_connect 1)
+                    (thermal_bridge_width 0.4)
+                    (thermal_bridge_angle 0)
+                    (thermal_gap 0.3)
+                    (uuid "9372bdde-6709-43cd-a456-07b62c22d1b9")
+                )
+                (pad "1" thru_hole circle
+                    (at 0.635 0.0)
+                    (size 1.4 1.4)
+                    (drill 0.95)
+                    (layers "*.Cu" "*.Mask")
+                    (remove_unused_layers no)
+                    (zone_connect 1)
+                    (thermal_bridge_width 0.4)
+                    (thermal_bridge_angle 0)
+                    (thermal_gap 0.3)
+                    (uuid "8f52310e-5475-4594-8a67-abef131a226a")
+                )
+                (pad "1" smd rect
+                    (at 0 0.0)
+                    (size 3 1.65)
+                    (layers "F.Cu" "F.Mask")
+                    (zone_connect 1)
+                    (thermal_bridge_width 0.4)
+                    (thermal_bridge_angle 0)
+                    (thermal_gap 0.3)
+                    (uuid "7408b5da-f2c2-43ea-95dc-c07b63ed6db9")
+                )
+                (pad "1" smd rect
+                    (at 0 0.0)
+                    (size 3 1.65)
+                    (layers "B.Cu" "B.Mask")
+                    (zone_connect 1)
+                    (thermal_bridge_width 0.4)
+                    (thermal_bridge_angle 0)
+                    (thermal_gap 0.3)
+                    (uuid "114b099e-e473-4c4b-816e-14a307b8cd75")
+                )
+            	(embedded_fonts no)
+        (model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+            (offset
+                (xyz 0.635 0 0)
+            )
+            (scale
+                (xyz 1 1 1)
+            )
+            (rotate
+                (xyz -0 -0 -0)
+            )
+        )
+    )
+    

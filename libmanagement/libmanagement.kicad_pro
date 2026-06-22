@@ -493,7 +493,8 @@
       "WIP_ckl-misc",
       "WIP_ckl-mcu",
       "WIP_ckl-switch",
-      "WIP_ckl-connector"
+      "WIP_ckl-connector",
+      "WIP_ckl-castellated"
     ],
     "pinned_symbol_libs": [
       "ckl-connector",
