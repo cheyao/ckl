@@ -298,7 +298,7 @@
 			)
 		)
 	)
-	(footprint "nrf52:Walsin_RFANT3216120A5T"
+	(footprint "PCM_ckl-misc:Walsin_RFANT3216120A5T"
 		(layer "F.Cu")
 		(uuid "6e8d275e-6675-4d36-9390-fdf3b809bbed")
 		(at 143.98 156.41 -90)

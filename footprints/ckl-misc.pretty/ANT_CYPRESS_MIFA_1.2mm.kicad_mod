@@ -1,0 +1,304 @@
+(footprint "ANT_CYPRESS_MIFA_1.2mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Cypress Meandered Inverted-F 2.4GHz Antenna")
+	(tags "Antenna 2.4GHz")
+	(property "Reference" "REF**"
+		(at 0 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "24890d90-b0ac-4989-aa5a-8120b09df06b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ANT_CYPRESS_MIFA_1.2mm"
+		(at 3.0988 -8.4328 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cfb1db55-2c8d-4ce5-84b8-6f222b612090")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/cross-divisions/42/infineon-an91445-antenna-design-and-rf-layout-guidelines-applicationnotes-en.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "866633ee-4c68-4138-9a8a-359e640872fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Cypress Meandered Inverted-F 2.4GHz Antenna"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e653c64f-2110-426b-b698-f73167e713ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -0.508 -7.112)
+		(end 0 0)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "b176e9d2-2905-4185-becd-ff2ca020c0bc")
+	)
+	(fp_rect
+		(start -0.508 -7.112)
+		(end 1.143 -6.604)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "1fba974e-b6f7-4f0a-8921-880b69527ef6")
+	)
+	(fp_rect
+		(start 0 -1.27)
+		(end 6.9342 -0.762)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "1725ac88-fe99-41d2-ae28-5439046e8894")
+	)
+	(fp_rect
+		(start 0.635 -6.604)
+		(end 1.143 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "b2453d0c-ef3f-4950-ab65-ffefc0e0ce3e")
+	)
+	(fp_rect
+		(start 0.635 -3.302)
+		(end 2.286 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "2512d297-9cdd-403e-9dff-c5c8d83f8934")
+	)
+	(fp_rect
+		(start 1.778 -7.112)
+		(end 3.429 -6.604)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "04a8ca7c-03a0-4ded-a978-50614f738181")
+	)
+	(fp_rect
+		(start 1.778 -6.604)
+		(end 2.286 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "2bcecf4c-c771-4619-93a3-56136f5882f2")
+	)
+	(fp_rect
+		(start 2.921 -6.604)
+		(end 3.429 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "e2e81d90-acc3-4da6-8e3c-46b4f5df4105")
+	)
+	(fp_rect
+		(start 2.921 -3.302)
+		(end 4.572 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "2fa44c9b-de70-4b9d-97ee-1b70c0f95499")
+	)
+	(fp_rect
+		(start 4.064 -7.112)
+		(end 5.715 -6.604)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "98b449ae-a461-4ca0-82da-38a9ca86d4a0")
+	)
+	(fp_rect
+		(start 4.064 -6.604)
+		(end 4.572 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "e4c88f17-4b32-40a1-a333-611b8df95591")
+	)
+	(fp_rect
+		(start 5.207 -6.604)
+		(end 5.715 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "38d5654d-2c38-41f4-805a-39efb358505f")
+	)
+	(fp_rect
+		(start 5.207 -3.302)
+		(end 6.858 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "4311e47d-c14e-42fa-b1f5-f43b7eccc472")
+	)
+	(fp_rect
+		(start 6.35 -5.969)
+		(end 6.858 -2.794)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "74497561-e5ce-4763-a72f-c0a9bf606753")
+	)
+	(fp_text user "Adjust keepout to match with feed trace"
+		(at -0.0508 -7.8486 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "bbe40359-7268-4735-a73f-f629cb5873c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(fp_text user "0.3mm keepout, >5mm GND, 0.38mm Via spaced 0.75mm"
+		(at 0 2.667 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "caba3ddc-51a1-4d5b-b333-7d4bd9583da1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7e24d135-a19a-44ed-8e53-3b27160032bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.254 0.508)
+		(size 0.508 1.016)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "11ab2f1d-667d-4c2b-a9f6-9a138239a2ee")
+	)
+	(pad "2" thru_hole roundrect
+		(at 6.6802 -1.016)
+		(size 0.508 0.508)
+		(drill 0.381)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "26ac2fd6-bed7-4152-a12a-42927000b6a2")
+	)
+	(zone
+		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(uuid "23a7e143-b51e-4108-b210-2cc7929999a2")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -1.656037 0) (xy 1.137963 0) (xy 1.137963 -1.524) (xy 7.62 -1.524) (xy 7.62 -7.62) (xy -1.656037 -7.62)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
