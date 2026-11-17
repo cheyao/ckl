@@ -4015,7 +4015,7 @@
 			)
 		)
 	)
-	(footprint "nrf52:HCTL_HC-FPC-05-09-24RLTAG-1MP_P0.5mm_Horizontal"
+	(footprint "PCM_ckl-connector:HCTL_HC-FPC-05-09-24RLTAG-1MP_P0.5mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fe2df1bf-adc8-4e72-b8f6-19159dc2ab0a")
 		(at 195.83 143.51 90)

@@ -5142,7 +5142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "nrf52:HCTL_HC-FPC-05-09-24RLTAG-1MP_P0.5mm_Horizontal"
+		(property "Footprint" "PCM_ckl-connector:HCTL_HC-FPC-05-09-24RLTAG-1MP_P0.5mm_Horizontal"
 			(at 247.65 236.22 0)
 			(hide yes)
 			(show_name no)

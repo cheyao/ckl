@@ -3017,7 +3017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nrf52:HCTL_JST_PH_HC-PH-2AWT-B_2P"
+		(property "Footprint" "PCM_ckl-connector:HCTL_JST_PH_HC-PH-2AWT-B_2P"
 			(at 102.87 105.41 0)
 			(hide yes)
 			(show_name no)
