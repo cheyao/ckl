@@ -28,6 +28,6 @@
 # New KiCAD 6 backup folders
 **/*backups/*
 
-PCB/archive
+PCM/archive
 VERSION
 PCM/*.zip
