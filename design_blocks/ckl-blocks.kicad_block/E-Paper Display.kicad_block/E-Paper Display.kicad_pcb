@@ -4444,7 +4444,7 @@
 			(uuid "e2595f7b-c42c-4068-8bac-08339b94ac8f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/nrf52.pretty/HCTL_HC-FPC-05-09-24RLTAG-1MP_P0.5mm_Horizontal.step"
+        (model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/HCTL_HC-FPC-05-09-24RLTAG-1MP_P0.5mm_Horizontal.step"
 			(offset
 				(xyz 0 -0.25 0)
 			)

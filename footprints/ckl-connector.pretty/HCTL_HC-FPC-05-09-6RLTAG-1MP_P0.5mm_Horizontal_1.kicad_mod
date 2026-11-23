@@ -207,7 +207,7 @@
 		(uuid "d3ff48f3-d7f5-4097-859d-56ccd450cb14")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3RD_PARTY}/3dmodels/HCTL_HC-FPC-05-09-6RLTAG-1MP_P0.5mm_Horizontal.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/HCTL_HC-FPC-05-09-6RLTAG-1MP_P0.5mm_Horizontal.step"
 		(offset
 			(xyz 0 -0.25 0)
 		)
