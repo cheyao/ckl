@@ -268,7 +268,7 @@
 		(uuid "bc77e6c1-18a3-4166-9111-dcc30a6a837a")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3RD_PARTY}/3dmodels/HCTL_JST_PH_HC-PH-2AWT-B_2P.step"
+	(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_cheyao_ckl/HCTL_JST_PH_HC-PH-2AWT-B_2P.step"
 		(offset
 			(xyz 0 4 0)
 		)

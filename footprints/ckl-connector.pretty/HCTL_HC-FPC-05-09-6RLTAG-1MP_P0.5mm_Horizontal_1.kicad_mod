@@ -1,0 +1,221 @@
+(footprint "HCTL_HC-FPC-05-09-6RLTAG-1MP_P0.5mm_Horizontal_1"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "6P FPC Connector")
+	(tags "6P FPC Connector")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b13c2784-f2ff-4903-ae1c-3b6831762c34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "HCTL_HC-FPC-05-09-6RLTAG-1MP_P0.5mm_Horizontal_1"
+		(at 0 3.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "66e35d5f-b14b-4f99-861d-f773677200d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/C5213748.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3fed02b6-913f-4764-8d88-9bc7ecb508bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "6P FPC Connector"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8013f038-0447-48c1-8474-02032a74c591")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.6 1)
+		(end -2.6 -0.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d011c3ad-0f58-48e6-a817-0415249749c6")
+	)
+	(fp_line
+		(start -2.2 2)
+		(end -2.2 2.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bad12d1e-d3c4-45cc-81dc-24d58c50719e")
+	)
+	(fp_line
+		(start -2.2 2.1)
+		(end 2.2 2.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e079a8d9-9818-4bf8-a3df-170430ec7830")
+	)
+	(fp_line
+		(start -1.5 -0.95)
+		(end -2.6 -0.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7cd0e11a-5a21-4076-9346-189b8e393d45")
+	)
+	(fp_line
+		(start 2.2 2)
+		(end 2.2 2.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f2e4e54a-604b-4ebf-9ffe-a28bc7e3fe59")
+	)
+	(fp_line
+		(start 2.6 -0.95)
+		(end 1.5 -0.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1c18c565-edae-4ee9-950d-873233eab846")
+	)
+	(fp_line
+		(start 2.6 1)
+		(end 2.6 -0.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5f2375cc-1aad-4e89-9da8-a54078c4f7b0")
+	)
+	(fp_rect
+		(start -3 -1.7)
+		(end 3 2.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "47c96ad3-375e-4391-ab73-9e02ed0c2938")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "46d8d063-21cf-498c-9b1d-037a819eb87c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.25 -1)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "60973deb-0d6b-4f88-bb3d-ff6571724005")
+	)
+	(pad "2" smd roundrect
+		(at -0.75 -1)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "f7426b27-4d9e-4e31-a05e-85a944433fc7")
+	)
+	(pad "3" smd roundrect
+		(at -0.25 -1)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "6aca70ff-b932-42b7-b9eb-5e0613a71eeb")
+	)
+	(pad "4" smd roundrect
+		(at 0.25 -1)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "d3d746d8-941b-4a70-95ba-bd75eaed8b51")
+	)
+	(pad "5" smd roundrect
+		(at 0.75 -1)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "64fa5848-5ecd-4d89-9b7a-08bfcb2ab782")
+	)
+	(pad "6" smd roundrect
+		(at 1.25 -1)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "bcc8c1d5-ebf3-4c52-88ef-4eaf32dd0d0b")
+	)
+	(pad "MP" smd roundrect
+		(at -2.25 1.5)
+		(size 0.4 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "d6970085-e7d3-4df2-bdb1-fb7e5b652a52")
+	)
+	(pad "MP" smd roundrect
+		(at 2.25 1.5)
+		(size 0.4 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "d3ff48f3-d7f5-4097-859d-56ccd450cb14")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3RD_PARTY}/3dmodels/HCTL_HC-FPC-05-09-6RLTAG-1MP_P0.5mm_Horizontal.step"
+		(offset
+			(xyz 0 -0.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+)
